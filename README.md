@@ -1,6 +1,6 @@
 # Streamflow Forecasting with ARIMA and VAR 🌊🔮
 
-![Streamflow](link-to-your-image.png) <!-- Replace with an image related to streamflow or your project -->
+![Streamflow](https://github.com/cuddles47/streamflow-forecasting/blob/main/Streamflow.png) 
 
 ## Overview
 
