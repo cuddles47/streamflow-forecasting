@@ -47,4 +47,4 @@ This repository hosts a comprehensive streamflow forecasting project that employ
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/streamflow-forecasting.git
-well it seem to be unable to use tensorflow ,speech recognition and some other python lib in Python 3.13.0a2 so i would recommend downgrade the python version , highly recoomend python 3.9 which i am currently using for it performence and stablity 
+well it seem to be unable to use tensorflow ,speech recognition and some other python lib in Python 3.13.0a2 so i would recommend downgrade the python version , highly recoomend python 3.9.13 which i am currently using for it performence and stablity 
